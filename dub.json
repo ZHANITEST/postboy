@@ -1,0 +1,16 @@
+{
+	"name": "postboy",
+	"authors": [
+		"ZHANITEST"
+	],
+	"targetType":"library",
+	"sourcePaths":[
+		"./source"
+	],
+	"dependencies": {
+		"requests": "~>1.0.1"
+	},
+	"description": "minimalist and dirty headless client",
+	"copyright": "Copyleft © 2018, zhanitest",
+	"license": "LGPL-2.1"
+}
